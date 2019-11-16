@@ -1,0 +1,17 @@
+projeto n:
+
+
+	-Inicio
+
+	-Termino:
+
+	-Coordenador:
+
+	-Alunos envolvidos:
+
+
+	-Diciplina(s):
+
+
+
+//ESQUELETO DE INFORMAÇÕES QUE CADA PROJETO DEVE TER//

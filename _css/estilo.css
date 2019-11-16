@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* Formatação da imagem inicials*/
+body{
+    background-color: #FFFFF0;
+    color: rgba(0,0,0,1);
+}
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+/* Formatação da imagem inicials*/
+figure.imagemLogin {
+    border:  3px solid white;
+    box-shadow: 1px 1px 4px black;
+}
+
+figure.imagemRedirecionamento img {
+     width: 100%;
+     height: 100%;
+}
+figure.imagemLogin figcaption{
+    position: absolute;
+    top: 0px;
+}
+
+.navbar-nav li {
+    margin-right: 10px;
+}
